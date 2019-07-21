@@ -12,3 +12,7 @@ Estos son los pasos que realiza el código:
 5. Hace click en buscar
 6. Entrega resultados 
 7. Realiza una captura de pantalla en png y la guarda en el ordenador 
+
+## Importante 
+
+Para ejecutar el código, necesitas bajar el Driver de Google. Para más información, aquí  https://sites.google.com/a/chromium.org/chromedriver/home
